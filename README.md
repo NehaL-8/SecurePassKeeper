@@ -43,7 +43,7 @@ Contributions are welcome! If you find any issues or want to enhance the functio
    ```bash
    ./a.out
    ```
-
+**Note** Install Xclip tool to enable copy/paste feature.
 ## Usage
 
 1. When you run the program, you'll be prompted to set your master password (if not already set) or enter your existing master password to access the password manager.
